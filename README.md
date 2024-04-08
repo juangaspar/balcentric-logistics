@@ -18,7 +18,7 @@ Para ejecutar el proyecto en un entorno local sigue estos pasos:
 - Clona el repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/your-username/balcentric-logistics.git
+    git clone https://github.com/juangaspar/balcentric-logistics.git
     ```
 
 - Navega hasta el directorio del proyecto:
